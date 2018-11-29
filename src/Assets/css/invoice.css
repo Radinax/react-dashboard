@@ -1,0 +1,22 @@
+tbody {
+    font-size: .9rem;
+}
+
+.align-right {
+    text-align: right;
+    font-size: .85rem;
+}
+
+.balance {
+    color: #ff9900;
+    font-weight: bold;
+}
+
+.borders {
+    border-left: solid 1px #d9d9d9;
+    border-right: solid 1px #d9d9d9;
+}
+
+table {
+    background-color: #fff;
+}
